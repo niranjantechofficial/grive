@@ -2,9 +2,9 @@ class config:
     BOT_TOKEN = "5130086836:AAHcYGJ8EzP9z9s2BIUkD8ecHOyY27Bj0So"
     APP_ID = "952608"
     API_HASH = "8d8d0ad8e3d4bcd54420190f57da78ad"
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    DATABASE_URL = "postgres://rmauanafovzeuj:774046814a9065bc5320b9f6743dedc429d63d8e109937679c60e188fb6a6290@ec2-3-230-219-251.compute-1.amazonaws.com:5432/dfsdgrdft20qlo"
+    SUDO_USERS = "852073763 818269274 1135078723" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/GRTEAMNTT"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
